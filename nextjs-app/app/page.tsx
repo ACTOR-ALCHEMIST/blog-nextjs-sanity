@@ -17,12 +17,8 @@ export default async function Page() {
                 A starter template for
               </div>
               <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-black">
-                <Link className="text-red-500 " href="https://sanity.io/">
-                  Sanity
-                </Link>{" "}
-                +{" "}
                 <Link className="text-[#000] " href="https://nextjs.org/">
-                  Next.js
+                  Jasper Blog
                 </Link>
               </h1>
             </div>
