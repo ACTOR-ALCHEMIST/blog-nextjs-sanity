@@ -18,7 +18,7 @@ export default async function Page() {
               </div>
               <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter text-black">
                 <Link className="text-[#000] " href="https://nextjs.org/">
-                  Jasper Blog
+                  Blog
                 </Link>
               </h1>
             </div>
